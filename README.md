@@ -1,4 +1,4 @@
-### Hi there 👋,I'm Ether.
+### Hi there 👋,I'm AdEther.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
