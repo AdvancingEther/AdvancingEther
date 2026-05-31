@@ -1,14 +1,7 @@
-<div align="center">
+I'm **Zichun** 👋
 
-# Zichun Wang
-
-### Medical Image Analysis | MLLM | 3D Volumetric Understanding
-
-</div>
-
-Hi, I'm **Zichun**.
-
-My research focuses on **medical image analysis**, **medical large language models (MLLMs)**, and **3D volumetric understanding and analysis**. I am particularly interested in building models that can connect visual perception, clinical reasoning, and structured spatial grounding in medical data.
+I work on **medical image analysis**, **medical large language models (MLLMs)**, and **3D volumetric understanding and analysis**.
+I’m especially interested in problems where perception, reasoning, and spatial grounding come together in medical data 🧠
 
 ## Research Interests
 
@@ -18,7 +11,7 @@ My research focuses on **medical image analysis**, **medical large language mode
 - Vision-language modeling for clinical applications
 - Grounded perception in complex medical scenes
 
-## Current Focus
+## What I'm Working On
 
 - Developing MLLM-based methods for medical image understanding
 - Exploring reasoning and grounding for volumetric medical data
@@ -34,5 +27,5 @@ My research focuses on **medical image analysis**, **medical large language mode
 
 ![](https://github-readme-stats.vercel.app/api?username=AdvancingEther&show_icons=true&theme=transparent)
 
-You are visitor ![Visitor Count](https://profile-counter.glitch.me/AdvancingEther/count.svg)
+You are visitor ![Visitor Count](https://profile-counter.glitch.me/AdvancingEther/count.svg) ✨
 
